@@ -3,3 +3,5 @@ archivo
 Lenguajes : python, javascript, 
 
 Modificamos un archivo
+
+Modificar el archivo.txt para el comando git status
